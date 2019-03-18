@@ -6,6 +6,6 @@ const Hello = () => (
     <div>Hello</div>
     <HelloChild />
   </div>
-)
+);
 
 export default Hello
